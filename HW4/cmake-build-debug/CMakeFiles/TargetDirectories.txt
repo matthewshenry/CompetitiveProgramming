@@ -1,0 +1,3 @@
+C:/Users/matth/School/CompetitiveProgramming/HW4/cmake-build-debug/CMakeFiles/HW4.dir
+C:/Users/matth/School/CompetitiveProgramming/HW4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/matth/School/CompetitiveProgramming/HW4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
